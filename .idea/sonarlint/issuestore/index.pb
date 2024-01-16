@@ -5,7 +5,5 @@ m
 =src/main/java/br/com/casasbahia/listacompras/model/Lista.java,e\3\e3c3b582359024d47a093af9b0cc7e7f853e6358
 O
 src/main/java/ListaCompras.java,b\a\badaebf4eefb9bbf835904b64e146bedd256465d
-V
-&src/main/java/principal/Principal.java,e\4\e4a3aaaee3221ef53121bfb10918d3d7117c147f
 u
 Esrc/main/java/br/com/casasbahia/listacompras/principal/Principal.java,e\e\eec62ae833003fc825c5db20ee089386b2f58f59
