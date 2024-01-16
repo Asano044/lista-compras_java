@@ -1,3 +1,16 @@
 
-_
-java:S2094"BRemove this empty class, write its code or make it an "interface".(ž„²å8÷á‘Ñ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÞŽÌúÿÿÿÿ8Â¥»˜Ñ1
+6
+java:S1700"Rename field "lista"(•æ‘˜ÿÿÿÿÿ8Õ®®˜Ñ1
+p
+java:S1450
+"SRemove the "item" field and declare it as a local variable in the relevant methods.(õ·ß¢8Çüº˜Ñ1
+{
+java:S1450"YRemove the "quantidade" field and declare it as a local variable in the relevant methods.(Þè²Ýûÿÿÿÿ8·”²˜Ñ1
+G	java:S106"+Replace this use of System.out by a logger.(§áµ»8ß®®˜Ñ1
+L	java:S106"+Replace this use of System.out by a logger.(Ôæ·­øÿÿÿÿ8á®®˜Ñ1
+L	java:S106"+Replace this use of System.out by a logger.(Âš™Œüÿÿÿÿ8Á”²˜Ñ1
+L	java:S106"+Replace this use of System.out by a logger.(Þ¾æºúÿÿÿÿ8÷Î¶˜Ñ1
+L	java:S106%"+Replace this use of System.out by a logger.(¾‡Î¯ÿÿÿÿÿ8¬ÉÓ˜Ñ1
+>
+java:S1116%"Remove this empty statement.(¾‡Î¯ÿÿÿÿÿ8¬ÉÓ˜Ñ1
