@@ -1,4 +1,4 @@
-import br.com.casasbahia.listacompras.principal.Principal;
+package br.com.casasbahia.listacompras.principal;
 
 public class ListaCompras {
     public static void main(String[]args) {

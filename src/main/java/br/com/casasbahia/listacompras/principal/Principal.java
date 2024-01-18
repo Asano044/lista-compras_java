@@ -1,20 +1,21 @@
 package br.com.casasbahia.listacompras.principal;
 
 import br.com.casasbahia.listacompras.model.Lista;
+import br.com.casasbahia.listacompras.service.Filtro;
 
 import java.util.Scanner;
 
 public class Principal {
-    private String menu = """
+    private final Scanner leitura = new Scanner(System.in);
+    private final Lista lista = new Lista();
+    private final Filtro filtro = new Filtro();
+    void menu() {
+        final String menu = """
                 ************************
                     Lista de compras
                 ************************
                 """;
 
-    private final Scanner leitura = new Scanner(System.in);
-    private Lista lista = new Lista();
-
-    public void menu() {
         System.out.println(menu);
         int opcao = -1;
 
@@ -34,7 +35,7 @@ public class Principal {
 //            Começo do switch case
             switch (opcao) {
                 case 1:
-                    lista.adicionarItem();
+                    filtro.filtrar(lista);
                     break;
                 case 2:
                     lista.removerItem();
